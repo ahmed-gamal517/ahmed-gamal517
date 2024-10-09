@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - **Data Source**: [FakeStore API](https://fakestoreapi.com/)
 - **Design Reference**: [Figma Template by Harsh Advani](https://www.figma.com/community/file/1282297701057617450)
 
-Check out the repository for more details: [QuickMart Repository](https://github.com/Afwra/QuickMart)
+Check out the repository for more details: [QuickMart Repository](https://github.com/Afwra/Afwra-QuickMart-Ecommerce-App)
 
 ---
 

@@ -39,7 +39,7 @@ Check out the repository for more details: [QuickMart Repository](https://github
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-gamal-07274a2a4/)
+- LinkedIn: [Ahmed Gamal](https://www.linkedin.com/in/ahmed-gamal-07274a2a4/)
 - Email: ahmedgamal5179@gmail.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!

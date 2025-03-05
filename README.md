@@ -48,8 +48,8 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 ## 🏆 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Afwra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afwra&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-gamal517&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-gamal517&layout=compact&theme=radical)
 
 ---
 
